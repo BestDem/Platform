@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: 3990a8469eb83f24797d70b2976713d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Textures_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2666bfe8c65746b914769f6695249
+      internalID: 1128961407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269873a752cbb9498e5cc9742e6c677
+      internalID: 273919504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099db55980a196247ba2284270b679b8
+      internalID: -1893442044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099746169d1935248a8b9be1e2df2ab9
+      internalID: -172494185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de811c4a6d1a34c4dbe2d26c96873b25
+      internalID: 741674111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f822baacb44273e478c554add643461f
+      internalID: 2053040462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09daa8fe681a71d45a770cc9a7aac961
+      internalID: -560389179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16151c5069be8c546bec307e2b3fbaca
+      internalID: 2027002055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8938e08fb4ee940a8b33121a943894
+      internalID: -2016023729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_188
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4d2fd120be7945b7a68ec8aaf2b97
+      internalID: -1833903827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_240
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e887b54553d9e44b900482c980f541
+      internalID: -697710827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_283
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda86b63bf20ea649a2473bac5158b57
+      internalID: -634015060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_284
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8789efdbead2734f909cfb487419282
+      internalID: 1840949654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_295
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e112051c9ed0449009c1c5fae0806
+      internalID: 1240080386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_297
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14db911c15206146a472955a0d12349
+      internalID: -1572037612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_299
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732c1e140ffe7034399da842b5c6835e
+      internalID: -715910361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_389
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aaeb83ac1f14540bd1639ed650a4b7
+      internalID: -344853573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_394
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202318a344560d4daa5ee844b2fc69f
+      internalID: 1643875359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_395
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301fa8ac21b351c4c950b00427b2281d
+      internalID: 154166203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_396
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de99b8f6d3faa9489f028d7165765cf
+      internalID: 1941101649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_403
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0aa291c3ded42449dbf7c340bf3859
+      internalID: -1517298415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_404
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed4fb478fbe71446a7cbe24d82d752d
+      internalID: 123990283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_405
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce8bc1a3ea60f459c1b1c63ccf1429
+      internalID: 656938334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_406
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a9fef8a1ad03429f9c129aeffaa2d
+      internalID: -911094573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_407
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657aa4782debc7446b022cbc1563d47d
+      internalID: 1677257971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_408
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30803345ec89dde45ae011d509ff9e57
+      internalID: 123005472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_412
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e526d95baf30f24e9703ba1f2b4c034
+      internalID: -148705537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_417
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b45cc204a199e646a4c55f5c41fa2c7
+      internalID: -1166422265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_418
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad3d6b7fc220694d818408403769360
+      internalID: -1915067973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_419
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac13b96ad70584495e0565884e69de
+      internalID: 408054873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_420
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb1e81a77327b14b99a4c900f33cfc7
+      internalID: 1078407392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_421
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbb5518b315f72428dd8ab73288d60e
+      internalID: -1855272854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_422
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e6befbf2a7de34795252380be404b9
+      internalID: -322831905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Textures_426
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d2b3115e04734f8fd57429e4831aa
+      internalID: 826461117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Textures_0: -724640314
+      Textures_1: 685182683
+      Textures_10: 648711355
+      Textures_100: 1741416497
+      Textures_101: 1285238207
+      Textures_102: -2057772778
+      Textures_103: 1379149290
+      Textures_104: -1474908075
+      Textures_105: -1163727632
+      Textures_106: -642564902
+      Textures_107: 1103088858
+      Textures_108: 1106171215
+      Textures_109: -1251441368
+      Textures_11: 8915485
+      Textures_110: 1332986988
+      Textures_111: 908868337
+      Textures_112: -1312250517
+      Textures_113: -286585479
+      Textures_114: -12176511
+      Textures_115: -931348625
+      Textures_116: 1573965280
+      Textures_117: 2028042662
+      Textures_118: -143475797
+      Textures_119: -1427628291
+      Textures_12: -604729648
+      Textures_120: 1317029639
+      Textures_121: 1081852479
+      Textures_122: 659665250
+      Textures_123: 1418366944
+      Textures_124: 1589684768
+      Textures_125: 302952481
+      Textures_126: -890982853
+      Textures_127: 652284592
+      Textures_128: -812279649
+      Textures_129: -641599566
+      Textures_13: -1731372951
+      Textures_130: -210273335
+      Textures_131: 1743101123
+      Textures_132: 1334773659
+      Textures_133: -1109572336
+      Textures_134: 1328414190
+      Textures_135: 2003671746
+      Textures_136: -944006463
+      Textures_137: 2050776177
+      Textures_138: 538797826
+      Textures_139: 385265076
+      Textures_14: -430068447
+      Textures_140: -533296733
+      Textures_141: 1552828664
+      Textures_142: -479705690
+      Textures_143: -601772283
+      Textures_144: 1229977177
+      Textures_145: -2048571149
+      Textures_146: -1060349979
+      Textures_147: 1718249797
+      Textures_148: -194567976
+      Textures_149: 646648315
+      Textures_15: -684583215
+      Textures_150: 2053040462
+      Textures_151: -560389179
+      Textures_152: -1971278280
+      Textures_153: 787984528
+      Textures_154: 1502710989
+      Textures_155: 771913831
+      Textures_156: -1746793447
+      Textures_157: 1465513415
+      Textures_158: 1637680273
+      Textures_159: -1030963249
+      Textures_16: -233700176
+      Textures_160: 802893131
+      Textures_161: 17307674
+      Textures_162: 1922882899
+      Textures_163: -912738111
+      Textures_164: 1165972563
+      Textures_165: -466660189
+      Textures_166: -195266938
+      Textures_167: 607277609
+      Textures_168: -342100007
+      Textures_169: 1739626480
+      Textures_17: 1811473054
+      Textures_170: 903299316
+      Textures_171: 1318590553
+      Textures_172: 1286419700
+      Textures_173: 813044910
+      Textures_174: -1309422328
+      Textures_175: 2114173965
+      Textures_176: 1468103803
+      Textures_177: 108965267
+      Textures_178: -2018965536
+      Textures_179: -394121522
+      Textures_18: 1011517030
+      Textures_180: -368159781
+      Textures_181: 401454490
+      Textures_182: 1857228568
+      Textures_183: 2027002055
+      Textures_184: -1610796439
+      Textures_185: -1047155930
+      Textures_186: -1771535091
+      Textures_187: -2016023729
+      Textures_188: -1833903827
+      Textures_189: -539126651
+      Textures_19: -966529721
+      Textures_190: -362438328
+      Textures_191: 396249843
+      Textures_192: 235508295
+      Textures_193: -317012434
+      Textures_194: -1084727766
+      Textures_195: -797781168
+      Textures_196: -1074875525
+      Textures_197: -1098998096
+      Textures_198: -63764101
+      Textures_199: -972057586
+      Textures_2: 2044193090
+      Textures_20: 912714043
+      Textures_200: -991531759
+      Textures_201: 216333293
+      Textures_202: 1286067722
+      Textures_203: -1973766890
+      Textures_204: -1989863405
+      Textures_205: -1156022567
+      Textures_206: 1273125100
+      Textures_207: 82861356
+      Textures_208: -500865436
+      Textures_209: 1252554321
+      Textures_21: -1449644733
+      Textures_210: -238759478
+      Textures_211: 2099957383
+      Textures_212: 1232245823
+      Textures_213: 2022816853
+      Textures_214: 253619942
+      Textures_215: -929348360
+      Textures_216: -1766487534
+      Textures_217: -732718911
+      Textures_218: -402683069
+      Textures_219: -469335024
+      Textures_22: 684746900
+      Textures_220: -1815879613
+      Textures_221: -1848217980
+      Textures_222: 381625182
+      Textures_223: -1339301243
+      Textures_224: -1233702686
+      Textures_225: 2032618669
+      Textures_226: 926124261
+      Textures_227: 459013161
+      Textures_228: -1649835782
+      Textures_229: -208493164
+      Textures_23: 399976473
+      Textures_230: -337620928
+      Textures_231: 129266980
+      Textures_232: -1963805866
+      Textures_233: 222332919
+      Textures_234: -1305985549
+      Textures_235: -1321442740
+      Textures_236: 905489627
+      Textures_237: -1442495064
+      Textures_238: -802648665
+      Textures_239: 442843289
+      Textures_24: 611149307
+      Textures_240: -697710827
+      Textures_241: -2107984583
+      Textures_242: 720493615
+      Textures_243: 836805591
+      Textures_244: -853694541
+      Textures_245: 648564676
+      Textures_246: 1789787767
+      Textures_247: -1617461094
+      Textures_248: -375694313
+      Textures_249: -7730725
+      Textures_25: -1822124177
+      Textures_250: 2138355042
+      Textures_251: 1393313158
+      Textures_252: -1486954632
+      Textures_253: -33841272
+      Textures_254: -339777416
+      Textures_255: -1988363041
+      Textures_256: -1143718955
+      Textures_257: -241625242
+      Textures_258: -4892605
+      Textures_259: -2064551395
+      Textures_26: -734028493
+      Textures_260: -1993145269
+      Textures_261: 512319734
+      Textures_262: -1142526504
+      Textures_263: 40872925
+      Textures_264: -15811199
+      Textures_265: 2134370779
+      Textures_266: -252446351
+      Textures_267: -1288251384
+      Textures_268: 532307406
+      Textures_269: 683350298
+      Textures_27: -1738837280
+      Textures_270: 1437779810
+      Textures_271: 1112373511
+      Textures_272: -439180629
+      Textures_273: -884539572
+      Textures_274: -936051268
+      Textures_275: 1922713664
+      Textures_276: 299516312
+      Textures_277: -44259649
+      Textures_278: 126949759
+      Textures_279: 1972082700
+      Textures_28: 442955084
+      Textures_280: 1088637272
+      Textures_281: 966824023
+      Textures_282: 1430853013
+      Textures_283: -634015060
+      Textures_284: 1840949654
+      Textures_285: -790152371
+      Textures_286: 1404083770
+      Textures_287: 1130785205
+      Textures_288: 1656209643
+      Textures_289: -700367539
+      Textures_29: 1904400920
+      Textures_290: 1139956107
+      Textures_291: 751449049
+      Textures_292: -958515613
+      Textures_293: 78872224
+      Textures_294: 780911526
+      Textures_295: 1240080386
+      Textures_296: -874843592
+      Textures_297: -1572037612
+      Textures_298: 1535501040
+      Textures_299: -715910361
+      Textures_3: -678999247
+      Textures_30: 821605325
+      Textures_300: 1126385481
+      Textures_301: -684684581
+      Textures_302: -814334742
+      Textures_303: -1454427683
+      Textures_304: 2065098702
+      Textures_305: 1251602333
+      Textures_306: -1769532930
+      Textures_307: 2044229750
+      Textures_308: -1263626702
+      Textures_309: 315932716
+      Textures_31: -1015719483
+      Textures_310: -46658858
+      Textures_311: 188694268
+      Textures_312: 1100101430
+      Textures_313: -1223720735
+      Textures_314: -392881073
+      Textures_315: -511986353
+      Textures_316: -932235392
+      Textures_317: -944834460
+      Textures_318: -751670506
+      Textures_319: -252516437
+      Textures_32: -1895962439
+      Textures_320: -1455220259
+      Textures_321: 1739546457
+      Textures_322: -823043296
+      Textures_323: 1630223148
+      Textures_324: 1562026834
+      Textures_325: -1198480695
+      Textures_326: -578090555
+      Textures_327: 38732799
+      Textures_328: -1243920453
+      Textures_329: -413672978
+      Textures_33: -1828161482
+      Textures_330: -1720149157
+      Textures_331: -1241605128
+      Textures_332: 952938671
+      Textures_333: 423337360
+      Textures_334: -1803498996
+      Textures_335: 878397934
+      Textures_336: -1735349025
+      Textures_337: 1193424527
+      Textures_338: -473096467
+      Textures_339: -52573118
+      Textures_34: -1884779404
+      Textures_340: -2107032781
+      Textures_341: 503849736
+      Textures_342: 976282349
+      Textures_343: -225372378
+      Textures_344: 950973737
+      Textures_345: 135364324
+      Textures_346: -1294167231
+      Textures_347: 69331587
+      Textures_348: 1866606518
+      Textures_349: -1931451540
+      Textures_35: -89880668
+      Textures_350: -1375439866
+      Textures_351: 1785078507
+      Textures_352: 257230449
+      Textures_353: 1185471584
+      Textures_354: -1033935092
+      Textures_355: -265808895
+      Textures_356: 275362195
+      Textures_357: -1527557532
+      Textures_358: 1514072760
+      Textures_359: 363633857
+      Textures_36: -2138767188
+      Textures_360: -685091630
+      Textures_361: -1482704492
+      Textures_362: 28975715
+      Textures_363: -1923739571
+      Textures_364: -208132707
+      Textures_365: -196165544
+      Textures_366: -902997598
+      Textures_367: 1272336513
+      Textures_368: 775202755
+      Textures_369: -32916713
+      Textures_37: -1193632020
+      Textures_370: 850849453
+      Textures_371: -1686739601
+      Textures_372: -1131528773
+      Textures_373: 687540767
+      Textures_374: -2001669849
+      Textures_375: 1019514501
+      Textures_376: -1983154959
+      Textures_377: -303864980
+      Textures_378: 1220380630
+      Textures_379: 1456247566
+      Textures_38: 1370628703
+      Textures_380: 1102875696
+      Textures_381: -831622824
+      Textures_382: 177192557
+      Textures_383: 1535345472
+      Textures_384: 1898181655
+      Textures_385: -1043283873
+      Textures_386: -1802074310
+      Textures_387: -2115211623
+      Textures_388: -1373356125
+      Textures_389: -344853573
+      Textures_39: -323153713
+      Textures_390: -27478783
+      Textures_391: -711729639
+      Textures_392: -971446574
+      Textures_393: 689692583
+      Textures_394: 1643875359
+      Textures_395: 154166203
+      Textures_396: 1941101649
+      Textures_397: -167035329
+      Textures_398: 2038146818
+      Textures_399: -2051816655
+      Textures_4: -1451752192
+      Textures_40: -1036986747
+      Textures_400: -1181878851
+      Textures_401: 178751884
+      Textures_402: 617125167
+      Textures_403: -1517298415
+      Textures_404: 123990283
+      Textures_405: 656938334
+      Textures_406: -911094573
+      Textures_407: 1677257971
+      Textures_408: 123005472
+      Textures_409: 2136794417
+      Textures_41: -1597735525
+      Textures_410: -1901382172
+      Textures_411: 413447863
+      Textures_412: -148705537
+      Textures_413: -1084946227
+      Textures_414: -1755968134
+      Textures_415: -1219827748
+      Textures_416: 14909475
+      Textures_417: -1166422265
+      Textures_418: -1915067973
+      Textures_419: 408054873
+      Textures_42: 1223838642
+      Textures_420: 1078407392
+      Textures_421: -1855272854
+      Textures_422: -322831905
+      Textures_423: -1603102285
+      Textures_424: -2069927161
+      Textures_425: -1851243551
+      Textures_426: 826461117
+      Textures_427: 312212460
+      Textures_428: 1655305882
+      Textures_429: 556395319
+      Textures_43: -2068969036
+      Textures_430: 603583987
+      Textures_44: 1340078386
+      Textures_45: -943679457
+      Textures_46: 2023065230
+      Textures_47: -1676335399
+      Textures_48: -1871896683
+      Textures_49: 214703393
+      Textures_5: -1600824718
+      Textures_50: 1950283254
+      Textures_51: -1841196716
+      Textures_52: -177901101
+      Textures_53: -2111714956
+      Textures_54: -745980723
+      Textures_55: 1451762977
+      Textures_56: 743607450
+      Textures_57: -1422806310
+      Textures_58: 1452292105
+      Textures_59: 1128961407
+      Textures_6: -782168843
+      Textures_60: -270333895
+      Textures_61: 1710030799
+      Textures_62: -171247660
+      Textures_63: -1985712655
+      Textures_64: -1507557630
+      Textures_65: 971521746
+      Textures_66: -1007469825
+      Textures_67: -1068162644
+      Textures_68: 273919504
+      Textures_69: -1686579509
+      Textures_7: 1033297112
+      Textures_70: -2132644207
+      Textures_71: 135810954
+      Textures_72: -1790330958
+      Textures_73: -1269123916
+      Textures_74: -1893442044
+      Textures_75: -1702159547
+      Textures_76: -2003645430
+      Textures_77: -183999308
+      Textures_78: -1615340703
+      Textures_79: -719224314
+      Textures_8: 737697549
+      Textures_80: -1942214025
+      Textures_81: 920356301
+      Textures_82: 1678922140
+      Textures_83: -342409591
+      Textures_84: -510889144
+      Textures_85: -172494185
+      Textures_86: 741674111
+      Textures_87: -1316742149
+      Textures_88: 1098284887
+      Textures_89: -1463923126
+      Textures_9: -68232801
+      Textures_90: 945143098
+      Textures_91: 1388623378
+      Textures_92: 152805853
+      Textures_93: 44093645
+      Textures_94: 2043404726
+      Textures_95: -341195890
+      Textures_96: 415542069
+      Textures_97: 688360722
+      Textures_98: 1455173337
+      Textures_99: -918650471
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
